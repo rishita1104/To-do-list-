@@ -8,7 +8,7 @@
 body {
   width: 100%;
   min-height: 100vh;
-  background: url();
+  background: url(images.jpg);
   background-repeat: no-repeat;
   object-fit: cover;
   background-size: cover;
